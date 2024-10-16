@@ -3,6 +3,6 @@
 
 int main(void) {
 	printf("Hello VisualStudio Git!!\n");
-	printf("Hello New Branch!!");
+	printf("Pull Request changed");
 	return 0;
 }
